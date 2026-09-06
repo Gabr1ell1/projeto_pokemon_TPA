@@ -73,6 +73,8 @@ Os vídeos de demonstração mostram o funcionamento do projeto e servem como ev
 
 Drive: https://drive.google.com/drive/folders/1htGLJE9Uk4lzpuyt0JMAXJzyNO4st5kI?usp=sharing
 
+<img width="1335" height="1019" alt="Captura de tela 2026-09-05 214834" src="https://github.com/user-attachments/assets/732be9a9-c3ce-4f4e-a27c-067ce3809180" />
+
 
 ## 👩‍💻 Autores
 - Gabrielly Nascimento
