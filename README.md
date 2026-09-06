@@ -36,42 +36,44 @@ projeto_pokemon_TPA/
  ```
 
 
-▶️ Como executar o projeto
-📱 App
+## ▶️ Como executar o projeto
+- Entre na pasta do aplicativo:
 
-Entre na pasta do aplicativo:
+- cd app
 
-cd app
-
-Instale as dependências:
+- Instale as dependências:
 
 npm install
 
-Inicie o Expo:
+- Inicie o Expo:
 
 npx expo start
-⚙️ Backend
 
-Entre na pasta do backend:
+## ⚙️ Backend
 
-cd backend
+- Entre na pasta do backend:
 
-Execute a aplicação utilizando o Maven:
+- cd backend
+
+- Execute a aplicação utilizando o Maven:
 
 ./mvnw spring-boot:run
 
 No Windows, caso necessário:
 
 mvnw.cmd spring-boot:run
-🧪 Testes e demonstração
+
+## 🧪 Testes e demonstração
 
 O funcionamento da aplicação e da autenticação foi testado, incluindo o fluxo de login e comunicação entre o aplicativo e o backend.
 
 🎥 Demonstrações
 
-Os vídeos de demonstração mostram o funcionamento do projeto e servem como evidência dos testes realizados.
+Os vídeos de demonstração mostram o funcionamento do projeto e servem como evidência dos testes realizados:
+Drive: https://drive.google.com/drive/folders/1htGLJE9Uk4lzpuyt0JMAXJzyNO4st5kI?usp=sharing
 
-👩‍💻 Autores
-Gabrielly Nascimento
-Maria Eduarda Monteiro Viana — GitHub: https://github.com/MaariaMonteiro
+
+## 👩‍💻 Autores
+- Gabrielly Nascimento
+- Maria Eduarda Monteiro Viana — GitHub: https://github.com/MaariaMonteiro
 
