@@ -33,6 +33,7 @@ projeto_pokemon_TPA/
 │
 ├── .gitignore
 └── README.md
+ ```
 
 
 ▶️ Como executar o projeto
